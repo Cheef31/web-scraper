@@ -1,0 +1,25 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "My first Web Scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheef31/web-scraper.git"
+  },
+  "keywords": [],
+  "author": "Cheef31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheef31/web-scraper/issues"
+  },
+  "homepage": "https://github.com/Cheef31/web-scraper#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2"
+  }
+}
